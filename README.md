@@ -4,7 +4,7 @@
 Real-time decoding of surface Electromyography (sEMG) signals into hand movement intent using Support Vector Machines (SVM).
 
 Developed as part of the "Mind Move" seminar at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).
-
+Implemented a classical supervised ML pipeline involving signal preprocessing, handcrafted time-frequency feature extraction, feature normalization, SVM with RBF kernel, and hyperparameter optimization via GridSearchCV with cross-validation.
 ---
 
 ##  Overview
